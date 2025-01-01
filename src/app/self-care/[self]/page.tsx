@@ -1,3 +1,4 @@
+import CommentsSection from '@/components/comment'
 import React from 'react'
 
 const self = () => {
@@ -191,6 +192,7 @@ const self = () => {
         </p>
         <br/>
         <br/>
+        <CommentsSection/>
     </div>
   )
 }

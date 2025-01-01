@@ -1,3 +1,4 @@
+import CommentsSection from '@/components/comment'
 import React from 'react'
 
 const growth = () => {
@@ -131,6 +132,7 @@ const growth = () => {
     </p>
     <br/>
     <br/>
+    <CommentsSection/>
     </div>
   )
 }

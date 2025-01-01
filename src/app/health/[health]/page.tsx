@@ -1,3 +1,4 @@
+import CommentsSection from '@/components/comment'
 import React from 'react'
 
 const health = () => {
@@ -99,6 +100,7 @@ const health = () => {
       </p>
       <br/>
       <br/>
+      <CommentsSection/>
       </div>
   )
 }

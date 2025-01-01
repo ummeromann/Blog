@@ -1,3 +1,4 @@
+import CommentsSection from '@/components/comment'
 import React from 'react'
 
 const nature = () => {
@@ -152,6 +153,7 @@ const nature = () => {
   <br/>
   closer to harmony and fulfillment.
   </p>
+  <CommentsSection/>
   </div>
   )
 }

@@ -1,3 +1,4 @@
+import CommentsSection from '@/components/comment'
 import React from 'react'
 
 const relation = () => {
@@ -227,6 +228,7 @@ const relation = () => {
     </p>
     <br/>
     <br/>
+    <CommentsSection/>
     </div>
 
 

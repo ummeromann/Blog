@@ -1,3 +1,4 @@
+import CommentsSection from '@/components/comment'
 import React from 'react'
 
 const mind = () => {
@@ -63,6 +64,7 @@ const mind = () => {
       If you&apos;re looking for ways to deepen your connection to yourself and the world around you, mindful living<br/> offers a transformative path that can be practiced by anyone, anywhere, at any time.</p>
       <br/>
       <br/>
+      <CommentsSection/>
     </div>
   )
 }
