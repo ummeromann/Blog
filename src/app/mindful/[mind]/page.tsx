@@ -29,13 +29,13 @@ const mind = () => {
       <br/>
       <strong>2: Practice Mindful Eating:</strong> Instead of rushing through meals, take the time to truly enjoy each bite. Pay attention to<br/> the taste, texture, and aroma of your food. This not only improves digestion but also helps develop a sense<br/> of gratitude for the food you&apos;re eating.
       <br/>
-      <strong>3: Engage in Mindful Walking:</strong> Whether you're walking to work or just taking a stroll, slow down and pay attention<br/> to your surroundings. Notice the sensation of your feet on the ground, the sounds around you, and the beauty of<br/> nature. This practice can help clear your mind and refresh your body.
+      <strong>3: Engage in Mindful Walking:</strong> Whether you&apos;re walking to work or just taking a stroll, slow down and pay attention<br/> to your surroundings. Notice the sensation of your feet on the ground, the sounds around you, and the beauty of<br/> nature. This practice can help clear your mind and refresh your body.
       <br/>
-      <strong>4: Perform One Task at a Time:</strong> Multitasking can feel productive, but it often leads to mental fatigue and reduced<br/> effectiveness. Instead, try to focus on one task at a time. Whether you're working, cooking, or cleaning, fully engage<br/> with the activity at hand and notice how your energy and results improve.
+      <strong>4: Perform One Task at a Time:</strong> Multitasking can feel productive, but it often leads to mental fatigue and reduced<br/> effectiveness. Instead, try to focus on one task at a time. Whether you&apos;re working, cooking, or cleaning, fully engage<br/> with the activity at hand and notice how your energy and results improve.
       <br/>
       <strong>5: Set Intentions for the Day:</strong> In the morning, take a few moments to set an intention for your day. Reflect on what<br/> you want to focus on, whether it&apos;s maintaining calmness, being more present with others, or accomplishing specific<br/> goals. Revisit this intention throughout the day to guide your actions.
       <br/>
-      <strong>6: Practice Gratitude:</strong> Mindfulness is deeply connected to gratitude. At the end of each day, take a moment to reflect<br/> on what you are grateful for. This practice can shift your focus from what's lacking in your life to what you already<br/> have, fostering a more positive outlook.
+      <strong>6: Practice Gratitude:</strong> Mindfulness is deeply connected to gratitude. At the end of each day, take a moment to reflect<br/> on what you are grateful for. This practice can shift your focus from what&apos;s lacking in your life to what you already<br/> have, fostering a more positive outlook.
       <br/>
       <strong>7: Mindful Technology Use:</strong> In today&apos;s digital age, it&apos;s easy to get lost in our screens. Mindful technology use involves<br/> being intentional about how and when you use digital devices. Set boundaries for your screen time, avoid mindless<br/> scrolling, and check in with yourself to see how you feel after using technology.
       <br/>

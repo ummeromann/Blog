@@ -12,7 +12,7 @@ const self = () => {
       <br/>
       <strong>2. Boosts Emotional Health</strong>
       <br/>
-      It fosters self-compassion and enhances your ability to cope with life's challenges.
+      It fosters self-compassion and enhances your ability to cope with life&apos;s challenges.
       <br/>
       <strong>3. Improves Productivity</strong>
       <br/>
@@ -48,7 +48,7 @@ const self = () => {
         <br/>
         <strong>Therapy or Counseling:</strong> Seek professional help when needed.
         <br/>
-        <strong>Gratitude Practice:</strong> Reflect on what you're thankful for to cultivate a positive mindset.
+        <strong>Gratitude Practice:</strong> Reflect on what you&apos;re thankful for to cultivate a positive mindset.
         <br/>
         <strong>Set Boundaries:</strong> Protect your energy by saying no to unnecessary commitments.
         <br/>
